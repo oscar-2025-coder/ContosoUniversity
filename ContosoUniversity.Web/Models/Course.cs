@@ -1,3 +1,4 @@
+using System.ComponentModel.DataAnnotations.Schema;
 namespace ContosoUniversity.Web.Models;
 
 public class Course
